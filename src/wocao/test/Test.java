@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("难啊");
 		System.out.println("啥啊");
 		System.out.println("就这样");
+		System.out.println("wocao");
 	}
 }
