@@ -7,6 +7,6 @@ public class Test {
 		System.out.println("就这样");
 		System.out.println("烦死了");
 		System.out.println("wocao");
-		System.out.println("wocao");
+
 	}
 }
